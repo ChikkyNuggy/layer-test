@@ -4,7 +4,7 @@ const { myLayer } = useAppConfig()
 
 <template>
   <div>
-    <h1>Hi this is my Epic Layer</h1>
+    <h1>Hi this is my Cool Layer</h1>
     <pre>{{ myLayer }}</pre>
   </div>
 </template>
